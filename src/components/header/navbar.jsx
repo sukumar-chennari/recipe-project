@@ -26,7 +26,7 @@ export const Header = () => {
             className="me-2"
             style={{ height: "80px" }}
           />
-          <span className="fs-4 fw-bold animated-title">Indian Spice Chronicles</span>
+          <span className="fs-4 fw-bold animated-title">Indian Spice Stories</span>
         </Link>
 
         {/* Toggle Button for Mobile */}
